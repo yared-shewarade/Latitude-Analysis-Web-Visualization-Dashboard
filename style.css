@@ -28,7 +28,7 @@ body {
   
     margin-bottom:5px;
   
-    align-content: center;
+    align-content: justify;
   
   }
   
@@ -40,9 +40,9 @@ body {
     margin-left: 5px;
   
     padding: 25px;
-    color: rgb(250, 250, 250);
+    color: rgb(228, 19, 19);
   
-    background: rgb(212, 212, 219);
+    background: rgb(160, 190, 23);
     font-size: 40px
     
   
